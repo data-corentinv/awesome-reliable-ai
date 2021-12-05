@@ -2,31 +2,33 @@
 
 # Introduction : why
 
-* Responsable vs Irresponsable (= ne pas avoir conséquence de ces actes)
+Notes : 
+* Responsable vs Irresponsable (= ne pas avoir conséquence de ses actes)
 * Responsible AI : 6 keys (Human-Centered ML, Secure, Interpretable IA, Explainable, Ethics, Compliance)
-* []: https://www.datanami.com/2020/04/06/brief-perspective-on-key-terms-and-ideas-in-responsible-ai/
-Thrustworthy/Reliable AI : 7 keys Scientific (Human-Centered ML, Robustness,  Ethics, Environmental, Transparency,) & Strategic (Privacy & Data Gouv, Tracking & Reproducible operations)
-* []: https://www.emedgene.com/7-keys-to-a-trustworthy-ai-according-to-the-eu-guidelines/
-
 
 * A LIRE: 
     - https://betaandbit.github.io/RML/#p=1
+	- []: https://www.datanami.com/2020/04/06/brief-perspective-on-key-terms-and-ideas-in-responsible-ai/
+	Thrustworthy/Reliable AI : 7 keys Scientific (Human-Centered ML, Robustness,  Ethics, Environmental, Transparency,) & Strategic (Privacy & Data Gouv, Tracking & Reproducible operations)
+	- []: https://www.emedgene.com/7-keys-to-a-trustworthy-ai-according-to-the-eu-guidelines/
 
 
 * Ex. AI fails : 
 	- Understand how it works ? « Ballon foot »,  « Barbe masque détection »
 	- Impact société dû biais : Recrutement, COMPAS, etc. 
 	- AutoML - performance basée sur des métriques techniques (eg. accuracy) et non business (e.g. recrutement)
-		- 
+
 * Législation : 
 	- Avant sur la Data : RGPD (2016)
 	- Maintient sur l’IA : Thrustworthy IA, DI US
 
 * Responsible ML : 
-- https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf
+	- https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf
 
 
 # Scientific Themes
+- Monitoring
+- Alerting 
 
 
 ## Transparency
@@ -41,19 +43,31 @@ A Selection of Medium articles :
 
 
 ## Ethics
+- Methodology
 
 
 ## Robutness
+* Notes
 
+* Ex. 
+	- Confiance interval 
+	- Perturbations : graines aléatoire
+	- MAPIE
 
 ## Environment
 
-- Impact environment : carbon
+- Impact environment : carbonml
 - Solutions : small data ?
 
 
 ## Reproducibility
 
+Notes: 
+- Tracking
+- Model registry
+- Train Dataset 
+
+Tools: 
 
 
 # Stategic Themes
