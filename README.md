@@ -11,6 +11,7 @@ Notes :
 	- []: https://www.datanami.com/2020/04/06/brief-perspective-on-key-terms-and-ideas-in-responsible-ai/
 	Thrustworthy/Reliable AI : 7 keys Scientific (Human-Centered ML, Robustness,  Ethics, Environmental, Transparency,) & Strategic (Privacy & Data Gouv, Tracking & Reproducible operations)
 	- []: https://www.emedgene.com/7-keys-to-a-trustworthy-ai-according-to-the-eu-guidelines/
+	- https://docs.google.com/presentation/d/1Md24K25opDU9lb5llop8i_vYs1aLvryW9iemF1y6gAU/edit#slide=id.p33
 
 
 * Ex. AI fails : 
@@ -87,3 +88,5 @@ Tools:
 * Méthodo : https://dataanalyticspost.com/grille-evaluation-dispositifs-medicaux/amp/
 
 * Faire émerger un cadre sur IA Confiance : -> construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest) : https://www.youtube.com/watch?v=Ip4dCZ8xhEo
+
+* Implicity: autorisation FDA, algo ECG: https://www.prnewswire.com/news-releases/implicity-receives-fda-clearance-for-ai-powered-ecg-analyzer-for-implantable-loop-recorders-301446711.html?tc=eml_cleartime
