@@ -40,11 +40,14 @@ Notes :
 
 A Selection of Medium articles : 
 - https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
-- 
+- https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/
+
 
 
 ## Ethics
 - Methodology
+
+- https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
 
 
 ## Robutness
