@@ -46,7 +46,7 @@ A Selection of Medium articles :
 
 ## Ethics
 - Methodology
-
+- Lesson : https://ethics.fast.ai/
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
 
 
