@@ -48,7 +48,7 @@ A Selection of Medium articles :
 - Methodology
 - Lesson : https://ethics.fast.ai/
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
-
+- Bais: https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
 
 ## Robutness
 * Notes
@@ -87,9 +87,8 @@ Tools:
 * Vidéo BigData Paris: https://www.alain-bensoussan.com/avocats/nouveau-reglement-sur-lia-pour-une-ia-digne-de-confiance/2021/10/25/
 * Réglement: https://www.senat.fr/europe/textes_europeens/COM_2021_206.pdf
 * Human-Learn: https://github.com/koaning/human-learn
-* https://github.com/LabeliaLabs/referentiel-evaluation-dsrc
+* Labelia Labs: https://github.com/LabeliaLabs/referentiel-evaluation-dsrc
 * Méthodo : https://dataanalyticspost.com/grille-evaluation-dispositifs-medicaux/amp/
-
-* Faire émerger un cadre sur IA Confiance : -> construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest) : https://www.youtube.com/watch?v=Ip4dCZ8xhEo
-
+* Fiancial Risk Management and Explainable Trusworthy, Responsible AI: https://www.frontiersin.org/articles/10.3389/frai.2022.779799/full
+* Faire émerger un cadre sur IA Confiance (construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest): https://www.youtube.com/watch?v=Ip4dCZ8xhEo
 * Implicity: autorisation FDA, algo ECG: https://www.prnewswire.com/news-releases/implicity-receives-fda-clearance-for-ai-powered-ecg-analyzer-for-implantable-loop-recorders-301446711.html?tc=eml_cleartime
