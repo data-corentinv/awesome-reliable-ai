@@ -84,6 +84,7 @@ Tools:
 
 **Quelques sources:**
 
+* Algo Audit: http://algaudit.inrialpes.fr/
 * Projet INRIA régulation numérique: https://www.inria.fr/en/regalia-pilot-project-regulation-algorithms
 * Interview Clément Henin et Daniel Le Métayer: https://linc.cnil.fr/fr/clement-henin-et-daniel-le-metayer-fournir-des-explications-du-fonctionnement-des-algorithmes
 * Vidéo BigData Paris: https://www.alain-bensoussan.com/avocats/nouveau-reglement-sur-lia-pour-une-ia-digne-de-confiance/2021/10/25/
