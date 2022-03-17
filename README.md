@@ -84,6 +84,8 @@ Tools:
 
 **Quelques sources:**
 
+* Projet INRIA régulation numérique: https://www.inria.fr/en/regalia-pilot-project-regulation-algorithms
+* Interview Clément Henin et Daniel Le Métayer: https://linc.cnil.fr/fr/clement-henin-et-daniel-le-metayer-fournir-des-explications-du-fonctionnement-des-algorithmes
 * Vidéo BigData Paris: https://www.alain-bensoussan.com/avocats/nouveau-reglement-sur-lia-pour-une-ia-digne-de-confiance/2021/10/25/
 * Réglement: https://www.senat.fr/europe/textes_europeens/COM_2021_206.pdf
 * Human-Learn: https://github.com/koaning/human-learn
