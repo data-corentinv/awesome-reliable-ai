@@ -49,6 +49,7 @@ A Selection of Medium articles :
 - Lesson : https://ethics.fast.ai/
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
 - Bais: https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
+- Identifying and managing bias in AI: https://doi.org/10.6028/NIST.SP.1270 / https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf
 
 ## Robutness
 * Notes
