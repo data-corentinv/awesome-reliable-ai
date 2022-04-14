@@ -45,6 +45,7 @@ A Selection of Medium articles :
 
 
 ## Ethics
+- https://gendered-news.imag.fr/genderednews/
 - Methodology
 - Lesson : https://ethics.fast.ai/
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
@@ -53,11 +54,13 @@ A Selection of Medium articles :
 
 ## Robutness
 * Notes
+- http://www.trustworthymachinelearning.com/
 
 * Ex. 
 	- Confiance interval 
 	- Perturbations : graines aléatoire
 	- MAPIE
+  
 
 ## Environment
 
