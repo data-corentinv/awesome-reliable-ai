@@ -26,6 +26,8 @@ Notes :
 * Responsible ML : 
 	- https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf
 
+* CNIL 
+  - https://www.cnil.fr/fr/intelligence-artificielle/guide
 
 # Scientific Themes
 - Monitoring
@@ -51,7 +53,8 @@ A Selection of Medium articles :
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
 - Bais: https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
 - Identifying and managing bias in AI: https://doi.org/10.6028/NIST.SP.1270 / https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf
-
+- DALLE: https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives
+- 
 ## Robutness
 * Notes
 - http://www.trustworthymachinelearning.com/
