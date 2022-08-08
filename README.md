@@ -12,6 +12,7 @@ Notes :
 	Thrustworthy/Reliable AI : 7 keys Scientific (Human-Centered ML, Robustness,  Ethics, Environmental, Transparency,) & Strategic (Privacy & Data Gouv, Tracking & Reproducible operations)
 	- []: https://www.emedgene.com/7-keys-to-a-trustworthy-ai-according-to-the-eu-guidelines/
 	- https://docs.google.com/presentation/d/1Md24K25opDU9lb5llop8i_vYs1aLvryW9iemF1y6gAU/edit#slide=id.p33
+	- CausualML Challenge: https://neurips.cc/Conferences/2022/CompetitionTrack
 
 
 * Ex. AI fails : 
@@ -38,12 +39,16 @@ Notes :
 
 - Methodology
 - Explainability
-- Interpretable IA 
+- Interpretable IA
+
+Tools: 
+- https://github.com/SelfExplainML/PiML-Toolbox
+- 
 
 A Selection of Medium articles : 
 - https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
 - https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/
-
+- LimeCraft: https://arxiv.org/pdf/2111.08094.pdf
 
 
 ## Ethics
@@ -79,7 +84,7 @@ Notes:
 - Train Dataset 
 
 Tools: 
-
+- mlflow
 
 # Stategic Themes
 
@@ -103,4 +108,13 @@ Tools:
 * Faire émerger un cadre sur IA Confiance (construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest): https://www.youtube.com/watch?v=Ip4dCZ8xhEo
 * Implicity: autorisation FDA, algo ECG: https://www.prnewswire.com/news-releases/implicity-receives-fda-clearance-for-ai-powered-ecg-analyzer-for-implantable-loop-recorders-301446711.html?tc=eml_cleartime
 * https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/amp/
-* 
+*-* ML in High-Risk Applications: https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/
+
+Books: 
+- ML in High-Risk Applications: https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/
+  * Chp1: Contemporary Model Governance: "Going fast and breaking thinkgs. It can mean that a small group of data scientists and engineers causes real harm at scale to many people." -> Cas d'application sur la voiture autonome chez Uber (gestion incidents, risk management, documentation).
+  * Chap2: Debugging ML Systems: "Tests data area under the curve (AUC) tells us almost nothing aboout harms or security vulnerabilities. Yet these problems are often whu AI systems fail once deployed." -> Cas d'application octroi de crédit (détection de dérives, stress-tests).
+  * Chap3: Security for ML: "The worst ennemy of security is complexity. Unduly complex AI systems are innately insecure." -> Censure anti-terroriste de FB (Attaques, vol de données / modèles, sécurité IT)
+
+
+
