@@ -1,5 +1,22 @@
 # (WIP) Reliable IA
 
+- [(WIP) Reliable IA](#wip-reliable-ia)
+	- [Contributing](#contributing)
+- [Introduction : why](#introduction--why)
+- [Scientific Themes](#scientific-themes)
+	- [Transparency](#transparency)
+	- [Ethics](#ethics)
+	- [Robutness](#robutness)
+	- [Environment](#environment)
+	- [Reproducibility](#reproducibility)
+- [Stategic Themes](#stategic-themes)
+	- [Human-Centered: "Contrôle Humain"](#human-centered-contrôle-humain)
+	- [Responsability](#responsability)
+	- [Privacy](#privacy)
+
+## Contributing
+Please feel free to send me [pull requests](https://github.com/data-corentinv/awesome-reliable-ai/pulls) or email (vasseur.corentin@gmail.com) to add links.
+
 # Introduction : why
 
 Notes : 
