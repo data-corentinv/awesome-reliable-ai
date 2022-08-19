@@ -1,6 +1,8 @@
 # (WIP) Reliable IA
 
+## Table of Contents
 - [(WIP) Reliable IA](#wip-reliable-ia)
+	- [Table of Contents](#table-of-contents)
 	- [Contributing](#contributing)
 - [Introduction : why](#introduction--why)
 - [Scientific Themes](#scientific-themes)
@@ -77,6 +79,9 @@ A Selection of Medium articles :
 - Identifying and managing bias in AI: https://doi.org/10.6028/NIST.SP.1270 / https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf
 - DALLE: https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives
 - Google: https://ai.googleblog.com/2018/09/introducing-inclusive-images-competition.html
+
+- https://github.com/Trusted-AI/AIF360/tree/master/examples
+- 
 ## Robutness
 * Notes
 - http://www.trustworthymachinelearning.com/
