@@ -75,7 +75,9 @@ A Selection of Medium articles :
 - Methodology
 - Lesson : https://ethics.fast.ai/
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
-- Bais: https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
+- Bais: 
+	* https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
+	* Comment mesurer les biais dans les données ? https://www.youtube.com/watch?v=2df7doSlUwA
 - Identifying and managing bias in AI: https://doi.org/10.6028/NIST.SP.1270 / https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf
 - DALLE: https://www.vox.com/future-perfect/23023538/ai-dalle-2-openai-bias-gpt-3-incentives
 - Google: https://ai.googleblog.com/2018/09/introducing-inclusive-images-competition.html
