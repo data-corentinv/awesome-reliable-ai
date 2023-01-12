@@ -159,6 +159,7 @@ Tools:
 * Labelia Labs: https://github.com/LabeliaLabs/referentiel-evaluation-dsrc
 * Méthodo : https://dataanalyticspost.com/grille-evaluation-dispositifs-medicaux/amp/
 * Fiancial Risk Management and Explainable Trusworthy, Responsible AI: https://www.frontiersin.org/articles/10.3389/frai.2022.779799/full
+* "Domaine de validité": https://www.quantmetry.com/blog/domaine-de-validite-ia-confiance/
 * Faire émerger un cadre sur IA Confiance (construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest): https://www.youtube.com/watch?v=Ip4dCZ8xhEo
 * Implicity: autorisation FDA, algo ECG: https://www.prnewswire.com/news-releases/implicity-receives-fda-clearance-for-ai-powered-ecg-analyzer-for-implantable-loop-recorders-301446711.html?tc=eml_cleartime
 * https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/amp/
