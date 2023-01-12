@@ -11,6 +11,7 @@
 	- [Robutness](#robutness)
 	- [Environment](#environment)
 	- [Reproducibility](#reproducibility)
+- [Platform :](#platform-)
 - [Stategic Themes](#stategic-themes)
 	- [Human-Centered: "Contrôle Humain"](#human-centered-contrôle-humain)
 	- [Responsability](#responsability)
@@ -51,6 +52,16 @@ Notes :
 
 # Scientific Themes
 - Monitoring
+
+Model observability 
+- https://arize.com/ml-observability/
+- https://neptune.ai/blog/ml-model-monitoring-best-tools
+- https://towardsdatascience.com/ml-infrastructure-tools-ml-observability-8e4d7df6db43
+- https://towardsdatascience.com/what-is-ml-observability-29e85e701688
+- https://medium.com/arize-ai/ml-infrastructure-tools-ml-observability-4b74d05a5fd6
+- https://www.montecarlodata.com/blog-beyond-monitoring-the-rise-of-observability/
+
+
 - Alerting 
 
 
@@ -70,6 +81,18 @@ A Selection of Medium articles :
 - LimeCraft: https://arxiv.org/pdf/2111.08094.pdf
 
 
+* Shap (Shapley Additive exPlanations) : Shap is a model agnostic and works by breaking down the contribution of each feature and attributing a score to each feature.
+* LIME (local Interpretable Model-agnostic Explanations) : LIME is another model agnostic method that works by approximinating the behavior of the model locally around a specific prediction.
+* Eli5 : library for debugging and explaining classifiers. It provides feature importance scores, as well as "reason codes" for scikit-learn, Keras, Xgboost, LightGBM, CatBoost
+* Shapash : python library which aims to make machine learning interpretable and understandable to everyone. Shapash provides several types of visualization with explicit labels.
+* Anchors : method for generating humain-interpretable rules that can be used to explain the predictions of a machine learning model.
+* XAI (eXplainable AI): XAI is a library for explaining and visualizeing the predictions of machine learning models including feature importance scores, decision trees, and rule-based explanations.
+* BreakDown : tool that can be used to explain the predictions of linear models. It works by decomposing the model's output into the contribution of each input feature.
+* Interpret-text: interpret-text is a library for explaining the predictions of natural language processing models.
+* iml (Interpretable MAchine Learning): iml currently contains the interface and IO code from the Shap project and it will potentially also do the same for the Lime project.
+* aix360 (AI Explainibility 360): aix360 includes a comprehensive set of algorithms that cover different dimensions.
+* OmnniXAI (short for Omni eXplainable AI), adresses several problems with interpreting judgements produced by machine learning models in practice.
+
 ## Ethics
 - https://gendered-news.imag.fr/genderednews/
 - Methodology
@@ -83,7 +106,9 @@ A Selection of Medium articles :
 - Google: https://ai.googleblog.com/2018/09/introducing-inclusive-images-competition.html
 
 - https://github.com/Trusted-AI/AIF360/tree/master/examples
-- 
+
+- Facebook, Balance : https://github.com/facebookresearch/balance
+
 ## Robutness
 * Notes
 - http://www.trustworthymachinelearning.com/
@@ -109,6 +134,11 @@ Notes:
 
 Tools: 
 - mlflow
+
+
+# Platform :
+- https://github.com/Giskard-AI/giskard
+
 
 # Stategic Themes
 
