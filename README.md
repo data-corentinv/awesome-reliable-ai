@@ -74,6 +74,7 @@ Model observability
 Tools: 
 - https://github.com/SelfExplainML/PiML-Toolbox
 - https://github.com/g8a9/ferret
+- [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 
 A Selection of Medium articles : 
 - https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
