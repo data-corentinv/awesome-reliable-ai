@@ -43,6 +43,7 @@ Notes :
 * Législation : 
 	- Avant sur la Data : RGPD (2016)
 	- Maintient sur l’IA : Thrustworthy IA, DI US
+	- Guide Pratique : https://www.afjv.com/news/10981_guide-pratique-nouveau-reglement-ia.htm
 
 * Responsible ML : 
 	- https://info.h2o.ai/rs/644-PKX-778/images/OReilly_Responsible_ML_eBook.pdf
