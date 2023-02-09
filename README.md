@@ -98,7 +98,9 @@ A Selection of Medium articles :
 ## Ethics
 - https://gendered-news.imag.fr/genderednews/
 - Methodology
-- Lesson : https://ethics.fast.ai/
+- Lesson : 
+  - https://ethics.fast.ai/
+  - https://ethical.institute/index.html
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
 - Bais: 
 	* https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
