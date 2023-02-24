@@ -181,6 +181,7 @@ Tools:
 * https://www.seldon.io/using-explainable-ai-xai-for-compliance-and-trust-in-the-healthcare-industry
 * Trusworthy AI: https://csdl-downloads.ieeecomputer.org/mags/co/2023/02/10042078.pdf?Expires=1677230283&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3MvY28vMjAyMy8wMi8xMDA0MjA3OC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzcyMzAyODN9fX1dfQ__&Signature=bTlcKKXtID1zywcPUxJSfte2GKSLWwKYxaUZb53hMCrbcoholFbfKys5nAv-qDwJXTpFFd0JXj~s0FH0sx9IDfXNcEocUFVBmJcaoy17YqWlPtjuG9QihbwZsl0qkcRdnMHrbLB7n5fl1yDO17aAl0d2qzCkpmH8XYQnytgvuCMka2jGqdUEnAvl8EgW3hQMB6oyvOc2dw-ndBoaVJJssvqqt7Dw~qmKlyVuCOX48VKmM5LP8ear1ZCtbn1fgU87ZaDIRj3XuiOsqZUYCRcpaPABFOr3oK~z3Y4~GdbFntjhf7J8JB80elaO15RaE487SMkeGaYq6vKJVlGLJTn-SA__&Key-Pair-Id=K12PMWTCQBDMDT
 * AAAI Spring Symposium 2023: https://aita.sciencesconf.org/
+* Example of ethical charter (pole emploi): https://www.pole-emploi.org/files/live/sites/peorg/files/images/Communiqu%c3%a9%20de%20presse/Charte%20de%20p%c3%b4le%20emploi%20pour%20une%20Intelligence%20Artificielle%20%c3%a9....pdf
 
 
 
