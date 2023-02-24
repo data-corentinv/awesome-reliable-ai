@@ -72,6 +72,13 @@ Model observability
 - Explainability
 - Interpretable IA
 
+Questions: 
+- How does each features contribute to a model's prediction?
+- How does a prediction change dependent on feature inputs?
+- What features are or not are significant for a given outcome?
+- What features would you change to obtain a different prediction?
+- How robust is the model?
+
 Tools: 
 - https://github.com/SelfExplainML/PiML-Toolbox
 - https://github.com/g8a9/ferret
@@ -94,6 +101,9 @@ A Selection of Medium articles :
 * iml (Interpretable MAchine Learning): iml currently contains the interface and IO code from the Shap project and it will potentially also do the same for the Lime project.
 * aix360 (AI Explainibility 360): aix360 includes a comprehensive set of algorithms that cover different dimensions.
 * OmnniXAI (short for Omni eXplainable AI), adresses several problems with interpreting judgements produced by machine learning models in practice.
+* Seldon (alibi explain / detect):
+  * https://www.seldon.io/solutions/open-source-projects/alibi-explain
+  * https://www.seldon.io/solutions/open-source-projects/alibi-detect
 
 ## Ethics
 - https://gendered-news.imag.fr/genderednews/
@@ -167,7 +177,12 @@ Tools:
 * Faire émerger un cadre sur IA Confiance (construction outil IA de Confiance - Responsable (label IA resp en FR et Europe de l'Ouest): https://www.youtube.com/watch?v=Ip4dCZ8xhEo
 * Implicity: autorisation FDA, algo ECG: https://www.prnewswire.com/news-releases/implicity-receives-fda-clearance-for-ai-powered-ecg-analyzer-for-implantable-loop-recorders-301446711.html?tc=eml_cleartime
 * https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2022/03/22/ai-explainable-radiology-medicine-crisis-eye-on-ai/amp/
-*-* ML in High-Risk Applications: https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/
+* ML in High-Risk Applications: https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/
+* https://www.seldon.io/using-explainable-ai-xai-for-compliance-and-trust-in-the-healthcare-industry
+* Trusworthy AI: https://csdl-downloads.ieeecomputer.org/mags/co/2023/02/10042078.pdf?Expires=1677230283&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3MvY28vMjAyMy8wMi8xMDA0MjA3OC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzcyMzAyODN9fX1dfQ__&Signature=bTlcKKXtID1zywcPUxJSfte2GKSLWwKYxaUZb53hMCrbcoholFbfKys5nAv-qDwJXTpFFd0JXj~s0FH0sx9IDfXNcEocUFVBmJcaoy17YqWlPtjuG9QihbwZsl0qkcRdnMHrbLB7n5fl1yDO17aAl0d2qzCkpmH8XYQnytgvuCMka2jGqdUEnAvl8EgW3hQMB6oyvOc2dw-ndBoaVJJssvqqt7Dw~qmKlyVuCOX48VKmM5LP8ear1ZCtbn1fgU87ZaDIRj3XuiOsqZUYCRcpaPABFOr3oK~z3Y4~GdbFntjhf7J8JB80elaO15RaE487SMkeGaYq6vKJVlGLJTn-SA__&Key-Pair-Id=K12PMWTCQBDMDT
+* AAAI Spring Symposium 2023: https://aita.sciencesconf.org/
+
+
 
 Books: 
 - ML in High-Risk Applications: https://learning.oreilly.com/library/view/machine-learning-for/9781098102425/
