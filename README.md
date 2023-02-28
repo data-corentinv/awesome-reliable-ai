@@ -190,6 +190,7 @@ Books:
   * Chp1: Contemporary Model Governance: "Going fast and breaking thinkgs. It can mean that a small group of data scientists and engineers causes real harm at scale to many people." -> Cas d'application sur la voiture autonome chez Uber (gestion incidents, risk management, documentation).
   * Chap2: Debugging ML Systems: "Tests data area under the curve (AUC) tells us almost nothing aboout harms or security vulnerabilities. Yet these problems are often whu AI systems fail once deployed." -> Cas d'application octroi de crédit (détection de dérives, stress-tests).
   * Chap3: Security for ML: "The worst ennemy of security is complexity. Unduly complex AI systems are innately insecure." -> Censure anti-terroriste de FB (Attaques, vol de données / modèles, sécurité IT)
+* https://csdl-downloads.ieeecomputer.org/mags/co/2023/02/10042078.pdf?Expires=16775762de%20l%27orga%20hi%C3%A9rarchique39&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL21hZ3MvY28vMjAyMy8wMi8xMDA0MjA3OC5wZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Nzc1NzYyMzl9fX1dfQ__&Signature=q4XZkM-AYoMgGHBnRE9iIJlIWMA5BCQBTTqtdftLtIaXuYRy1-eLUdzP4Vz1yPgu2hm8FBcKS3-Fx-fvR1p61ur7ehV2-I5jLjPERv5kZuLDfXvX91G566akf8kbaudTzUY37cNhC5-Dvl8kxiN274fh1PwrindCf2a-SJWkNwH8BMTmnyNEUjsGz2PMIIBsAyROSg3wTHL2pS6l0Rz6cMC65BFRwTbw0Dp3uj3Q2R1Vz~5k-P7Lcj03ETpyDZ-DoIA28cVfyCRIUXcd0HRo~Qx24iZtnhuo8QDzXnrMTJRm6X4G7qiZB9I4-OMz43nmsWpTm0jGK1xq1bnNIPqtYA__&Key-Pair-Id=K12PMWTCQBDMDT
 
 
 
