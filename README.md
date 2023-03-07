@@ -88,6 +88,7 @@ A Selection of Medium articles :
 - https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
 - https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/
 - LimeCraft: https://arxiv.org/pdf/2111.08094.pdf
+- Xplique: https://github.com/deel-ai/xplique
 
 
 * Shap (Shapley Additive exPlanations) : Shap is a model agnostic and works by breaking down the contribution of each feature and attributing a score to each feature.
