@@ -114,6 +114,7 @@ A Selection of Medium articles :
   - https://ethics.fast.ai/
   - https://ethical.institute/index.html
 - https://www.youtube.com/watch?v=0Q4wU2dyMbI&t=161s
+- https://github.com/dssg/aequitas
 - Bais: 
 	* https://causalnex.readthedocs.io/en/latest/03_tutorial/04_sklearn_tutorial.html#Dataset-bias-evaluation
 	* Comment mesurer les biais dans les données ? https://www.youtube.com/watch?v=2df7doSlUwA
