@@ -126,6 +126,9 @@ A Selection of Medium articles :
 
 - Facebook, Balance : https://github.com/facebookresearch/balance
 
+## Fairness
+- https://arxiv.org/pdf/2102.08453.pdf
+
 ## Robutness
 * Notes
 - http://www.trustworthymachinelearning.com/
