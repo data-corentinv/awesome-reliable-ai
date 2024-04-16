@@ -85,6 +85,9 @@ Tools:
 - https://github.com/g8a9/ferret
 - [explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 
+Shap: Patrick Hall
+- https://maven.com/p/d3409b/understand-shap-s-hapley-additive-ex-planations
+
 A Selection of Medium articles : 
 - https://pub.towardsai.net/shapash-making-ml-models-understandable-by-everyone-8f96ad469eb3
 - https://www.marktechpost.com/2022/02/10/uc-berkeley-researchers-introduce-imodels-a-python-package-for-fitting-interpretable-machine-learning-models/
