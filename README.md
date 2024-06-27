@@ -109,6 +109,8 @@ A Selection of Medium articles :
 * Seldon (alibi explain / detect):
   * https://www.seldon.io/solutions/open-source-projects/alibi-explain
   * https://www.seldon.io/solutions/open-source-projects/alibi-detect
+ 
+* Source: https://www.linkedin.com/posts/maryammiradi_ai-explainability-beyond-the-surface-uncommon-activity-7212004104263380993-qmcn/?utm_source=share&utm_medium=member_ios
 
 ## Ethics
 - https://gendered-news.imag.fr/genderednews/
